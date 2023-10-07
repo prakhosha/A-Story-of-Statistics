@@ -1,4 +1,4 @@
----
+***
 
 # A Story on Statistics
 
@@ -6,7 +6,7 @@
 
 *Posted on: January 2023*
 
----
+***
 
 Humans have survived until this day because we are curious about nature. What nature is in this context is not only about natural science such as physics or chemistry, but also natural history and human activity such as DNA or economics.
 
